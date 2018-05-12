@@ -1,4 +1,8 @@
 _repo: The-Mystery-Hunters-at-the-Haunted-Lodge_47613
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47613-h/images/cover.jpg
 creator:
   author:
     agent_name: Wyckoff, Capwell
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44394'
     url: http://www.gutenberg.org/2009/agents/44394
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47613#The-Mystery-Hunters-at-the-Haunted-Lodge
 gutenberg_issued: '2014-12-10'
 gutenberg_type: Text
 identifiers:
